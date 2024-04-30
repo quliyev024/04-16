@@ -1,4 +1,26 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#Welcome {
+  padding: 60px 0;
+}
+#Welcome .box {
+  padding: 20px 0;
+}
+#Welcome .box .textbox h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+#Welcome .box .textbox h3 {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+#Welcome .box .textbox h2 {
+  margin: 25px 0 0 0;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 2;
 }/*# sourceMappingURL=style.css.map */
