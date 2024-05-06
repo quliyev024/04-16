@@ -3,6 +3,10 @@ body {
   font-weight: 500;
 }
 
+.imgbox img {
+  width: 100%;
+}
+
 #Welcome {
   padding: 60px 0;
 }
@@ -23,4 +27,34 @@ body {
   font-weight: 700;
   font-size: 20px;
   line-height: 2;
+}
+
+#services .box .textbox h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+#services .box .textbox h3 {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+#services .box .textbox h2 {
+  font-weight: 700;
+  font-size: 30px;
+}
+#services .box .textbox p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 40px 10px 40px;
+}
+#services .box .btn {
+  background-color: #792e2e;
+  border-radius: 50px;
+  width: 90px;
+  margin: 10px 0;
+}
+#services .box .btn .icon {
+  font-size: 50px;
+  color: ffff;
 }/*# sourceMappingURL=style.css.map */
